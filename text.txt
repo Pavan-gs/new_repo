@@ -1,1 +1,3 @@
 hello
+name = "John"
+City = "Hyderabad"
