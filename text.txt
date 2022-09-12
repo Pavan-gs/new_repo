@@ -1,3 +1,5 @@
 hello
 name = "John"
 City = "Hyderabad"
+education = "BE"
+job_role = "Engineer"
